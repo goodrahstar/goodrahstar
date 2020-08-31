@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goodrahstar" alt="goodrahstar" /> </p>
 
-<!--
-**goodrahstar/goodrahstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">Building Explainable AI</h3>
+<h3 align="center">Co-Founder and Chief AI Scientist @Apres.io • Making AI explainable • Author of 2 Deep Learning books.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://twitter.com/hellorahulk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hellorahulk" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/hellorahulk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hellorahulk" height="20" width="20" /></a>
+<a href="https://medium.com/@hellorahulk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="hellorahulk" height="20" width="20" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+- 🔭 I’m currently working with [Apres.io](www.apres.io)
+
+- 🌱 I’m currently learning **Quantum computing, BCI and RL for NLP**
+
+- 👯 I’m looking to collaborate on **AI Automation**
+
+- 👨‍💻 All of my projects are available at [www.hellorahulk.com](www.hellorahulk.com)
+
+- 💬 Ask me about **AI, NLP, ML**
+
+- 📫 How to reach me **official.rahulk@gmail.com**
+
+- ⚡ Fun fact **Coffee is life , learning to play Tennis**
+
+<br/>
+
+<p align="center"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img 
+src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img 
+<br/>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=goodrahstar&show_icons=true alt="goodrahstar" /> </p>
