@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodrahstar" alt="goodrahstar" /> </p>
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Building Explainable AI</h3>
+<h3 align="center">Building Explainable AI using Graph </h3>
 <h3 align="center">Applied AI Scientist • Author of 2 Deep Learning books.</h3>
 
 <p align="center">
