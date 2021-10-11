@@ -11,7 +11,7 @@
 </p>
 
 ### About Me:
-- 🔭 I’m currently working with [Apres.io](www.apres.io)
+- 🔭 I’m currently working on Graph Embeddings models.
 
 - 🌱 I’m currently learning **Quantum computing, BCI and RL for NLP**
 
