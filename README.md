@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Building Explainable AI</h3>
-<h3 align="center">Co-Founder and Chief AI Scientist @Apres.io  • Author of 2 Deep Learning books.</h3>
+<h3 align="center">Applied AI Scientist • Author of 2 Deep Learning books.</h3>
 
 <p align="center">
 <a href="https://twitter.com/hellorahulk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hellorahulk" height="20" width="20" /></a>
